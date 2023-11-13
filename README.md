@@ -1,4 +1,4 @@
-# Miko
+# GitMasteryChallenge
 Exercise for version control management
 <<<<<<< HEAD
 make a change
