@@ -9,3 +9,4 @@ Commit 3
 >>>>>>> feature-branch
 Commit 1 from classmate
 Commit 2 from classmate
+Commit 3 from own
