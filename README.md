@@ -12,3 +12,4 @@ Commit 2 from classmate
 Commit 3 from own
 Commit 4 from own
 Pull request commit
+Pull request commit2
