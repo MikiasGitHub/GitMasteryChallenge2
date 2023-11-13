@@ -7,3 +7,7 @@ Commit 1
 Commit 2
 Commit 3
 >>>>>>> feature-branch
+Commit 1 from classmate
+Commit 2 from classmate
+Commit 3 from own
+Commit 4 from own
